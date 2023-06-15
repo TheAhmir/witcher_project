@@ -10,8 +10,11 @@ There are several methods to extract relationships from text. However, currently
 3. I define a window size of how far 2 sentences are apart from eachother and assume that if 2 characters are mentions in 2 sentences within this window then their is a relationship between them
 
 ## Overview
-Through my analysis, I learned that the 2nd book in The Witcher series, The Sword of Destiny, contains a varying level of importance of character throughout the book with the most important characters being Geralt, Yennefer, and Ciri. Geralt had a much larger importance, indicating that he is the main character with Ciri and Yennefer being close to him. I addition, I can conclude from my data that he had the most relationships with "side characters" throughout the book.
 
 ![2ndBookCharImportance](https://github.com/TheAhmir/witcher_project/assets/100968856/265f58ab-fc84-40c9-851f-6709404b21a4)
+
+Through my analysis, I learned that the 2nd book in The Witcher series, The Sword of Destiny, contains a varying level of importance of character throughout the book with the most important characters being Geralt, Yennefer, and Ciri. Geralt had a much larger importance, indicating that he is the main character with Ciri and Yennefer being close to him. I addition, I can conclude from my data that he had the most relationships with "side characters" throughout the book.
+
+![Importance_over_series](https://github.com/TheAhmir/witcher_project/assets/100968856/e1166206-8231-42d7-93a5-770cdb590105)
 
 Next, I took the top 5 characters based on importance from my analysis of the 2nd book in the series and visualized their importance throughout the first 8 books in the series. As expected, the level of importance of the character remained similar to the importance in the second book. However, the their is no data for Ciri for the 1st book. This is because she is born in the second book. She then rises to the most important character for books 5 and 6 before Geralt becomes the most important character once again for book 8. This was an interesting discovery and I enjoyed being able to visualize how the events throughout each book affected each characters importance over the course of the series.
